@@ -8,8 +8,16 @@ venue: 'BMC Bioinformatics'
 paperurl: 'https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2947-6'
 citation: 'Gunady, M.K., Mount, S.M. & Corrada Bravo, H. Yanagi: Fast and interpretable segment-based alternative splicing and gene expression analysis. BMC Bioinformatics 20, 421 (2019) doi:10.1186/s12859-019-2947-6'
 ---
-A graph-based approach to enable the use of ultra-fast lightweight kmer-based alignment techniques to perform fast and interpretable downstream analysis from RNAseq data in alternative splicing, transcriptome, as well as genome level.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+- Background
+
+Ultra-fast pseudo-alignment approaches are the tool of choice in transcript-level RNA sequencing (RNA-seq) analyses. Unfortunately, these methods couple the tasks of pseudo-alignment and transcript quantification. This coupling precludes the direct usage of pseudo-alignment to other expression analyses, including alternative splicing or differential gene expression analysis, without including a non-essential transcript quantification step.
+
+- Results
+
+In this paper, we introduce a transcriptome segmentation approach to decouple these two tasks. We propose an efficient algorithm to generate maximal disjoint segments given a transcriptome reference library on which ultra-fast pseudo-alignment can be used to produce per-sample segment counts. We show how to apply these maximally unambiguous count statistics in two specific expression analyses – alternative splicing and gene differential expression – without the need of a transcript quantification step. Our experiments based on simulated and experimental data showed that the use of segment counts, like other methods that rely on local coverage statistics, provides an advantage over approaches that rely on transcript quantification in detecting and correctly estimating local splicing in the case of incomplete transcript annotations.
+
+- Conclusions
+
+The transcriptome segmentation approach implemented in Yanagi exploits the computational and space efficiency of pseudo-alignment approaches. It significantly expands their applicability and interpretability in a variety of RNA-seq analyses by providing the means to model and capture local coverage variation in these analyses.
