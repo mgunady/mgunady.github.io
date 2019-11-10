@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Yanagi: Fast and interpretable segment-based alternative splicing and gene expression analysis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2947-6
+excerpt: 'A graph-based approach to enable the use of ultra-fast lightweight kmer-based alignment techniques to perform fast and interpretable downstream analysis from RNAseq data in alternative splicing, transcriptome, as well as genome level.'
+date: 2019-08-13
+venue: 'BMC Bioinformatics'
+paperurl: 'https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2947-6'
+citation: 'Gunady, M.K., Mount, S.M. & Corrada Bravo, H. Yanagi: Fast and interpretable segment-based alternative splicing and gene expression analysis. BMC Bioinformatics 20, 421 (2019) doi:10.1186/s12859-019-2947-6'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+A graph-based approach to enable the use of ultra-fast lightweight kmer-based alignment techniques to perform fast and interpretable downstream analysis from RNAseq data in alternative splicing, transcriptome, as well as genome level.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
