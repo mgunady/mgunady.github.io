@@ -5,6 +5,6 @@ permalink: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-0
 excerpt: 'A graph-based approach to enable the use of ultra-fast lightweight kmer-based alignment techniques to perform fast and interpretable downstream analysis from RNAseq data in alternative splicing, transcriptome, as well as genome level.'
 date: 2019-08-13
 venue: 'BMC Bioinformatics'
-paperurl: 'https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2947-6'
+paperurl: ''
 citation: 'Gunady, M.K., Mount, S.M. & Corrada Bravo, H. Yanagi: Fast and interpretable segment-based alternative splicing and gene expression analysis. BMC Bioinformatics 20, 421 (2019) doi:10.1186/s12859-019-2947-6'
 ---
