@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-spring-teaching-3
 venue: "University of Maryland, Computer Science Department"
-date: Spring 2016
+date: 2016-02-01
 location: "College Park, USA"
 ---
 
