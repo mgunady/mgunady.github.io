@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/cellAttention
 excerpt: ''
 date: 2019-10-27
-venue: 'NeurIPS 2019'
+venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/1910.12370'
 citation: 'Ismail, Aya Abdelsalam, et al. "Input-Cell Attention Reduces Vanishing Saliency of Recurrent Neural Networks." arXiv preprint arXiv:1910.12370 (2019).'
 ---
