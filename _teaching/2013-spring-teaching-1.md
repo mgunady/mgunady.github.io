@@ -2,7 +2,7 @@
 title: "CMSC131 Object Oriented Programming I, Java Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2013-fall-cmsc131
+permalink: /teaching/2013-spring-teaching-1
 venue: "University of Maryland, Computer Science Department"
 date: Fall 2013, Spring 2014
 location: "College Park, USA"
