@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Mohamed Profile Photo](https://mgunady.github.io/images/photo_hike.jpg)
+![Mohamed Profile Photo](https://mgunady.github.io/images/photo_hike.jpg | width=100)
 - I'm a PhD student in the [Computer Science Department](https://www.cs.umd.edu/) at [University of Maryland](https://umd.edu/), advised by [Héctor Corrada Bravo](http://www.hcbravo.org/). [[Curriculum Vitae](https://mgunady.github.io/files/Gunady_resume.pdf)]
 - My research interests lie mainly in Bioinformatics, Genomics, Machine Learning and Data Science. 
 In addition to interests more generally in developing solutions in Articifial Intelligence, Data Structures and Multi-Agent Systems.
