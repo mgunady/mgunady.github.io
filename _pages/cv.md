@@ -9,32 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+[[Complete Curriculum Vitae](https://mgunady.github.io/files/Gunady_resume.pdf)]
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science, University of Maryland, College Park, USA, 2020 (expected)
+* M.Sc. in Computer Science, Egypt-Japan University of Science and Technology (E-JUST), Alexandria, Egypt, 2012
+* B.Sc. in Computer Engineering, University of Alexandria, Egypt, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-Present: Research Assistant
+  * University of Maryland
+  * Duties included: Develop tools and algorithms in Genomics, Bioinformatics, Machine Learning
+  * Supervisor: Hector Corrada Bravo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Bioinformatics Intern
+  * Illumina, San Diego
+  * Duties included: Developing graph-based population whole genome reference to efficiently study genomic variants in HLA genes
+  * Supervisor: Sangtae Kim
+  
+* 2009-2010: Software Developer
+  * BadrIT (now part of Incorta)
+  * Duties included: Developing iPhone and web-based solutions
+  * Supervisor: Mohamed Hassan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Java, C/C++, SQL
+* R/Bioconductor
+* Tensorflow
+* NGS tools, Unix Shell Scripting, High Performance Computing
 
 Publications
 ======
@@ -54,6 +59,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
