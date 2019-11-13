@@ -1,7 +1,7 @@
 ---
 title: "Cell-Attention Reduces Vanishing Saliency of Recurrent Neural Networks"
 collection: publications
-permalink: https://arxiv.org/abs/1910.12370
+permalink: /publication/cellAttention
 excerpt: ''
 date: 2019-10-27
 venue: 'NeurIPS 2019'

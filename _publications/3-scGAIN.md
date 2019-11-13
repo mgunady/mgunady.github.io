@@ -1,7 +1,7 @@
 ---
 title: "scGAIN: Single-Cell Data Imputation using Generative Adversarial Networks"
 collection: publications
-permalink: https://www.biorxiv.org/content/10.1101/837302v1
+permalink: /publication/scGAIN
 excerpt: ''
 date: 2015-10-01
 venue: 'Submitted to RECOMB 2020'
