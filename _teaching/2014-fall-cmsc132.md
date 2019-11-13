@@ -2,7 +2,7 @@
 title: "CMSC132 Object Oriented Programming II, Data Structures"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-fall-132
+permalink: /teaching/2014-fall-cmsc132
 venue: "University of Maryland, Computer Science Department"
 date: Fall 2014
 location: "College Park, USA"
